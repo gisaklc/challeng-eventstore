@@ -1,0 +1,15 @@
+2021-09-03 11:18:29,505 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-03 11:19:07,178 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: challeng:intelie:0.0.1-SNAPSHOT @ C:\challengs\challengIntelie\pom.xml.
+2021-09-03 11:19:08,705 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-03 11:19:08,706 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\challengs\challengIntelie\src\main\resources
+2021-09-03 11:19:08,715 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-03 11:19:08,715 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\challengs\challengIntelie\src\test\resources
+2021-09-03 11:19:25,972 [Worker-5: Building Project challengIntelie] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-03 11:19:25,972 [Worker-5: Building Project challengIntelie] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\challengs\challengIntelie\src\main\resources
+2021-09-03 11:19:25,974 [Worker-5: Building Project challengIntelie] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-03 11:19:25,974 [Worker-5: Building Project challengIntelie] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\challengs\challengIntelie\src\test\resources
+2021-09-03 11:19:56,198 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: challeng:intelie:0.0.1-SNAPSHOT @ C:\challengs\challeng-eventstore\pom.xml.
+2021-09-03 11:19:56,243 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-03 11:19:56,244 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\challengs\challeng-eventstore\src\main\resources
+2021-09-03 11:19:56,245 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-03 11:19:56,246 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\challengs\challeng-eventstore\src\test\resources
